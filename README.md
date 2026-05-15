@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/vitormarinho88/Burguer-Menu/blob/main/Burguer%20-%20Menu/img/bacon-egg.png?raw=true" width="450px">
+  <img src="https://github.com/vitormarinho88/Burguer-Menu/blob/main/img/bacon-egg.png?raw=true" width="450px">
 </div>
 
 # 🍔 Burguer Menu
